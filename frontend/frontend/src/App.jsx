@@ -120,6 +120,7 @@ function App() {
         <h1 className="title-glitch">AI Travel Planner</h1>
         <p className="subtitle" style={{color:'whitesmoke'}}> Adventure is calling, and I must go—again!  </p>
         <div className="compass-icon">🏰</div>
+        <button onClick={() => window.alert("Contact Me for building your websites on . Email: dhakneomkar2000@gmail.com")}>Contact Me</button> <button><a href='https://www.linkedin.com/in/pandurang-dhakne-9a4a09219/'>LinkeDin</a></button>
       </header>
       
       <div className="container">
@@ -386,6 +387,9 @@ function App() {
         <source src={bgVideo} type="video/mp4" />
         
       </video> */}
+
+
+      
 
 
 
